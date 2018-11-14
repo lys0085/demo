@@ -1,0 +1,6 @@
+framework module Pods_domeTests {
+  umbrella header "Pods-domeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
